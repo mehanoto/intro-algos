@@ -10,6 +10,7 @@
 
 **/bin
 **/obj
+**/.vscode
 
 # Built Visual Studio Code Extensions
 *.vsix
